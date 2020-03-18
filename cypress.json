@@ -1,0 +1,7 @@
+{
+    "viewportWidth": 1440,
+    "viewportHeight": 1200,
+    "defaultCommandTimeout": 15000,
+    "baseUrl": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata"
+
+}
