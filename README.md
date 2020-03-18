@@ -11,7 +11,7 @@ Passo a passo para a execução:
 	2.3- Instalar o Cypress com Cucumber:
 	
 		I) Acessar a pasta onde realizou o git clone desse repositório. Abra o terminal e acesse essa mesma pasta com o seguinte comando:
-		cd /your/project/path
+		cd /your/project/path/cypress_case_cortex
 		
 		II) Tendo acessado a pasta do projeto, execute o comando de instalação:
 			npm install --save-dev cypress cypress-cucumber-preprocessor
